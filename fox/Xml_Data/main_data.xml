@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FoxUsers>
+  <FoxUser>
+    <Id>12</Id>
+    <Login>piotex</Login>
+    <Pwd>1234</Pwd>
+    <Path>www.immillionare.com</Path>
+  </FoxUser>
+  <FoxUser>
+    <Id>3</Id>
+    <Login>adam</Login>
+    <Pwd>qwerty</Pwd>
+    <Path>www.immillionare_now.com</Path>
+  </FoxUser>
+</FoxUsers>
