@@ -1,0 +1,92 @@
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\bin\Debug\netcoreapp3.1\Stocks.exe
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\bin\Debug\netcoreapp3.1\Stocks.deps.json
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\bin\Debug\netcoreapp3.1\Stocks.runtimeconfig.json
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\bin\Debug\netcoreapp3.1\Stocks.runtimeconfig.dev.json
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\bin\Debug\netcoreapp3.1\Stocks.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\bin\Debug\netcoreapp3.1\Stocks.pdb
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\obj\Debug\netcoreapp3.1\Stocks.csprojAssemblyReference.cache
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\obj\Debug\netcoreapp3.1\Stocks.AssemblyInfoInputs.cache
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\obj\Debug\netcoreapp3.1\Stocks.AssemblyInfo.cs
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\obj\Debug\netcoreapp3.1\Stocks.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\obj\Debug\netcoreapp3.1\Stocks.pdb
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\obj\Debug\netcoreapp3.1\Stocks.genruntimeconfig.cache
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\obj\Debug\netcoreapp3.1\Stocks.csproj.CoreCompileInputs.cache
+C:\Users\pkubo\OneDrive\Desktop\stocks\Stocks\obj\Debug\netcoreapp3.1\Stocks.csproj.CopyComplete
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\bin\Debug\netcoreapp3.1\Stocks.exe
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\bin\Debug\netcoreapp3.1\Stocks.deps.json
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\bin\Debug\netcoreapp3.1\Stocks.runtimeconfig.json
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\bin\Debug\netcoreapp3.1\Stocks.runtimeconfig.dev.json
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\bin\Debug\netcoreapp3.1\Stocks.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\bin\Debug\netcoreapp3.1\Stocks.pdb
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\obj\Debug\netcoreapp3.1\Stocks.csprojAssemblyReference.cache
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\obj\Debug\netcoreapp3.1\Stocks.AssemblyInfoInputs.cache
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\obj\Debug\netcoreapp3.1\Stocks.AssemblyInfo.cs
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\obj\Debug\netcoreapp3.1\Stocks.csproj.CoreCompileInputs.cache
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\obj\Debug\netcoreapp3.1\Stocks.csproj.CopyComplete
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\obj\Debug\netcoreapp3.1\Stocks.dll
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\obj\Debug\netcoreapp3.1\Stocks.pdb
+C:\Users\pkubo\OneDrive\Desktop\stocks excel\Stocks\obj\Debug\netcoreapp3.1\Stocks.genruntimeconfig.cache
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\obj\Debug\netcoreapp3.1\Stocks.csprojAssemblyReference.cache
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\obj\Debug\netcoreapp3.1\Stocks.AssemblyInfoInputs.cache
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\obj\Debug\netcoreapp3.1\Stocks.AssemblyInfo.cs
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\obj\Debug\netcoreapp3.1\Stocks.csproj.CoreCompileInputs.cache
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\obj\Debug\netcoreapp3.1\Stocks.dll
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\obj\Debug\netcoreapp3.1\Stocks.pdb
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\Stocks.exe
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\Stocks.deps.json
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\Stocks.runtimeconfig.json
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\Stocks.runtimeconfig.dev.json
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\Stocks.dll
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\Stocks.pdb
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\obj\Debug\netcoreapp3.1\Stocks.csproj.CopyComplete
+C:\Users\pkubo\OneDrive\Desktop\Gielda_RSI\Stocks\obj\Debug\netcoreapp3.1\Stocks.genruntimeconfig.cache
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\Stocks.exe
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\Stocks.deps.json
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\Stocks.runtimeconfig.json
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\Stocks.runtimeconfig.dev.json
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\Stocks.dll
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\Stocks.pdb
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\obj\Debug\netcoreapp3.1\Stocks.csprojAssemblyReference.cache
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\obj\Debug\netcoreapp3.1\Stocks.AssemblyInfoInputs.cache
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\obj\Debug\netcoreapp3.1\Stocks.AssemblyInfo.cs
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\obj\Debug\netcoreapp3.1\Stocks.csproj.CoreCompileInputs.cache
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\obj\Debug\netcoreapp3.1\Stocks.csproj.CopyComplete
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\obj\Debug\netcoreapp3.1\Stocks.dll
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\obj\Debug\netcoreapp3.1\Stocks.pdb
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stocks\Gielda_RSI\Stocks\obj\Debug\netcoreapp3.1\Stocks.genruntimeconfig.cache
