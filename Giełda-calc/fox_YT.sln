@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gielda_calc", "ConsoleApp1\Gielda_calc.csproj", "{5D6E2795-E95E-4624-BF86-5E9DE4EA88B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D6E2795-E95E-4624-BF86-5E9DE4EA88B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6E2795-E95E-4624-BF86-5E9DE4EA88B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6E2795-E95E-4624-BF86-5E9DE4EA88B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6E2795-E95E-4624-BF86-5E9DE4EA88B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED6BD7CF-8356-411D-ACCF-9080002C8990}
+	EndGlobalSection
+EndGlobal
