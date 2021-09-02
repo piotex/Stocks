@@ -10,11 +10,20 @@ namespace Stocks.Wig_Operations.Operations
             SheetName = "Banki";
             links = new List<string>
             {
-                @"https://www.biznesradar.pl/notowania/BOGDANKA",
-                @"https://www.biznesradar.pl/notowania/COALENERG",
-                @"https://www.biznesradar.pl/notowania/JSW",
-                @"https://www.biznesradar.pl/notowania/KGHM",
-                @"https://www.biznesradar.pl/notowania/PRAIRIE"
+                @"https://www.biznesradar.pl/notowania/ALIOR",
+                @"https://www.biznesradar.pl/notowania/BNP",
+                @"https://www.biznesradar.pl/notowania/BOS",
+                @"https://www.biznesradar.pl/notowania/GETIN",
+                @"https://www.biznesradar.pl/notowania/GETINOBLE",
+                @"https://www.biznesradar.pl/notowania/HANDLOWY",
+                @"https://www.biznesradar.pl/notowania/ING",
+                @"https://www.biznesradar.pl/notowania/MBANK",
+                @"https://www.biznesradar.pl/notowania/MILLENNIUM",
+                @"https://www.biznesradar.pl/notowania/PEKAO",
+                @"https://www.biznesradar.pl/notowania/PKOBP",
+                @"https://www.biznesradar.pl/notowania/SPL",
+                @"https://www.biznesradar.pl/notowania/SANTANDER",
+                @"https://www.biznesradar.pl/notowania/UNICREDIT"
             };
         }
     }
