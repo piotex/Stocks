@@ -12,23 +12,23 @@ namespace Stocks.Wig_Operations
     {
         public static List<WigOperation> wigOperations = new List<WigOperation>
         {
-            new GpwAll(),
-            new WigDiv(),
-            new WigBanki(),
-            new WigBudownictwo(),
-            new WigChemia(),
-            new WigEnergia(),
-            new WigGames(),
-            new WigGornic(),
-            new WigInf(),
-            new WigLeki(),
+            //new GpwAll(),
+            //new WigDiv(),
+            //new WigBanki(),
+            //new WigBudownictwo(),
+            //new WigChemia(),
+            //new WigEnergia(),
+            //new WigGames(),
+            //new WigGornic(),
+            //new WigInf(),
+            //new WigLeki(),
             new WigMedia(),
-            new WigMoto(),
-            new WigNRCHOM(),
-            new WigOdzierz(),
-            new WigPaliwa(),
-            new WigSporzywczy(),
-            new WigTelek()
+            //new WigMoto(),
+            //new WigNRCHOM(),
+            //new WigOdzierz(),
+            //new WigPaliwa(),
+            //new WigSporzywczy(),
+            //new WigTelek()
         };
 
         public static void GetAndSaveSectorData()

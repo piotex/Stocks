@@ -12,19 +12,20 @@ namespace Stocks.Wig_Operations.Base
         protected List<string> links;
         protected string SheetName;
 
-        public void SaveSector(XLWorkbook workbook)
+        public virtual void SaveSector(XLWorkbook workbook)
         {
             int number = 2;
             
             IXLWorksheet worksheet = workbook.Worksheets.Add(SheetName);
             init_Sektor(worksheet);
-            foreach (var link in links)
+            for (int i = 0; i < links.Count; i++)
             {
-                add_sub_Sektor(worksheet, link, ref number);
+                string link = links[i];
+                add_sub_Sektor(worksheet, link, ref number); 
             }
         }
 
-        private static void init_Sektor(IXLWorksheet worksheet)
+        protected static void init_Sektor(IXLWorksheet worksheet)
         {
             int number = 1;
             worksheet.Cell("A" + number.ToString()).Value = "Link";
@@ -46,7 +47,7 @@ namespace Stocks.Wig_Operations.Base
             worksheet.Cell("Q" + number.ToString()).Value = "ROE [%]";
             worksheet.Cell("R" + number.ToString()).Value = "ROA";
         }
-        private static void add_Sektor(IXLWorksheet worksheet, Info record, ref int number)
+        protected static void add_Sektor(IXLWorksheet worksheet, Info record, ref int number)
         {
             worksheet.Cell("A" + number.ToString()).Value = record.Link;
             worksheet.Cell("B" + number.ToString()).Value = record.Kurs;
@@ -58,7 +59,7 @@ namespace Stocks.Wig_Operations.Base
             worksheet.Cell("H" + number.ToString()).Value = record.PrzychodyZeSprzedarzy + " PLN";
             worksheet.Cell("I" + number.ToString()).Value = record.PrzychodyZeSprzedarzy_Proc + "%";
             worksheet.Cell("J" + number.ToString()).Value = record.EBIT + " PLN";
-            worksheet.Cell("K" + number.ToString()).Value = record.EBIT_Proc + "%";
+            worksheet.Cell("K" + number.ToString()).Value = record.EBIT_Proc;
             worksheet.Cell("L" + number.ToString()).Value = record.Ocena;
             worksheet.Cell("M" + number.ToString()).Value = record.C_WK;
             worksheet.Cell("N" + number.ToString()).Value = record.C_P;
@@ -68,7 +69,7 @@ namespace Stocks.Wig_Operations.Base
             worksheet.Cell("R" + number.ToString()).Value = record.ROA;
             number++;
         }
-        private void add_sub_Sektor(IXLWorksheet worksheet, string link, ref int number)
+        protected void add_sub_Sektor(IXLWorksheet worksheet, string link, ref int number)
         {
             try
             {
@@ -84,7 +85,7 @@ namespace Stocks.Wig_Operations.Base
             }
         }
 
-        public void old_Version()
+        private void old_Version()
         {
             Console.WriteLine("Start pobierania listy spolek...");
             int c = 0;

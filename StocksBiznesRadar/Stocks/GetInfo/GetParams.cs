@@ -58,6 +58,10 @@ namespace Stocks.GetInfo
             info.PrzychodyZeSprzedarzy_Proc = _getEbita(ref body, ref startIndex);
             info.EBIT = _getPrzychZeSprzed(ref body, ref startIndex);
             info.EBIT_Proc = _getEbita(ref body, ref startIndex);
+            if (info.EBIT_Proc[0] == '+')
+            {
+                info.EBIT_Proc = info.EBIT_Proc.Remove(0, 1);                          //usuniecie znaku: + z wartosci zeby mozna bylo sortowac
+            }
 
             while (ok)
             {
@@ -78,7 +82,7 @@ namespace Stocks.GetInfo
                     startIndex += 161;
                     info.ROE = _getParamVal(ref body, ref startIndex);
                     info.ROE = info.ROE.Remove(info.ROE.Length - 1);        //usuniecie znaku: % z wartosci zeby mozna bylo sortowac
-                    info.ROE = info.ROE.Replace('.',',');
+                    //info.ROE = info.ROE.Replace('.',',');
                 }
                 if (sss2 == "ROA")
                     info.ROA = _getParamVal(ref body, ref startIndex);
