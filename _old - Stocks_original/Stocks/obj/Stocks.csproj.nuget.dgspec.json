@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pkubo\\OneDrive\\Desktop\\stocks excel\\Stocks\\Stocks.csproj": {}
+    "C:\\Users\\pkubo\\OneDrive\\Dokumenty\\GitHub\\Stocks\\_old - Stocks_original\\Stocks\\Stocks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pkubo\\OneDrive\\Desktop\\stocks excel\\Stocks\\Stocks.csproj": {
+    "C:\\Users\\pkubo\\OneDrive\\Dokumenty\\GitHub\\Stocks\\_old - Stocks_original\\Stocks\\Stocks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pkubo\\OneDrive\\Desktop\\stocks excel\\Stocks\\Stocks.csproj",
+        "projectUniqueName": "C:\\Users\\pkubo\\OneDrive\\Dokumenty\\GitHub\\Stocks\\_old - Stocks_original\\Stocks\\Stocks.csproj",
         "projectName": "Stocks",
-        "projectPath": "C:\\Users\\pkubo\\OneDrive\\Desktop\\stocks excel\\Stocks\\Stocks.csproj",
+        "projectPath": "C:\\Users\\pkubo\\OneDrive\\Dokumenty\\GitHub\\Stocks\\_old - Stocks_original\\Stocks\\Stocks.csproj",
         "packagesPath": "C:\\Users\\pkubo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pkubo\\OneDrive\\Desktop\\stocks excel\\Stocks\\obj\\",
+        "outputPath": "C:\\Users\\pkubo\\OneDrive\\Dokumenty\\GitHub\\Stocks\\_old - Stocks_original\\Stocks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pkubo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "ClosedXML": {
               "target": "Package",
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

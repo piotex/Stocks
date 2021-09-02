@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2GqaBACMLrnKxDbFFozx1P6ZjthPbhRX2p2BPbb3o3mCsz1ZRRIXmbwQkLi5mSsR2pHR3apsG9jEKsGgQRBZAw==",
+  "dgSpecHash": "L6D6z/Q3LOD2/41p0rcWOCx7HbfSQHth42ueSF1fA8+zC5dZ4IzbTBXZTXudTlg5gAwgyUFrpdVgR5N158pGJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pkubo\\OneDrive\\Desktop\\stocks excel\\Stocks\\Stocks.csproj",
+  "projectFilePath": "C:\\Users\\pkubo\\OneDrive\\Dokumenty\\GitHub\\Stocks\\_old - Stocks_original\\Stocks\\Stocks.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pkubo\\.nuget\\packages\\closedxml\\0.95.3\\closedxml.0.95.3.nupkg.sha512",
     "C:\\Users\\pkubo\\.nuget\\packages\\documentformat.openxml\\2.7.2\\documentformat.openxml.2.7.2.nupkg.sha512",
